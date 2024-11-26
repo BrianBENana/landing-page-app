@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/nanagroup/landing-page-app/main/LotteryThaiApp.ipa</string>
+					<string>https://raw.githubusercontent.com/BrianBENana/landing-page-app/main/LotteryThaiApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/nanagroup/landing-page-app/main/Icon%402x.png</string>
+					<string>https://raw.githubusercontent.com/BrianBENana/landing-page-app/main/Icon%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/nanagroup/landing-page-app/main/Icon.png</string>
+					<string>https://raw.githubusercontent.com/BrianBENana/landing-page-app/main/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
